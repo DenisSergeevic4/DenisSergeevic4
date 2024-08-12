@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DenisSergeevic4
 - 👀 I’m interested in project manager
 - 🌱 I’m currently learning at a university.
-- 💞️ I’m looking to collaborate on with you
+- 💞️ I’m looking to collaborate on with 
 - 📫 How to reach me ... Tg
 - ⚡ Fun fact: I know the code
 
